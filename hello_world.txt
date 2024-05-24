@@ -1,0 +1,2 @@
+Trying out stuff for the Odin Project
+Learning git workflow
